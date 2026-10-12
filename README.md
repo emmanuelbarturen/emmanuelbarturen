@@ -63,8 +63,15 @@ Adaptación en Laravel Zero de los ejemplos de Jorge Méndez. Lo escribí para m
 </td>
 <td width="50%" valign="top">
 
-<br><br>
-<p align="center"><i>Espacio reservado —<br>lo siguiente que abra va acá.</i></p>
+### ![live](https://img.shields.io/badge/●_live-1a7f37?style=flat) claude-code-statusline
+
+**Statusline para Claude Code en español:** tres filas con lo esencial de la sesión y nada más. Tarea, skills y agentes en contexto, barra de contexto con semáforo, uso de la ventana de 5 h y de la semana con hora de reinicio, y modelo con su nivel de esfuerzo.
+
+**Un solo script bash más `jq`.** Se instala pegándole un prompt a Claude Code o con `./install.sh`; los colores y umbrales son variables al inicio del archivo.
+
+![Shell](https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white) ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white) ![jq](https://img.shields.io/badge/jq-000000?style=flat)
+
+[**Ver repo →**](https://github.com/emmanuelbarturen/claude-code-statusline)
 
 </td>
 </tr>
